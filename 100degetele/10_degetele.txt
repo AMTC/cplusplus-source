@@ -1,0 +1,19 @@
+1.Sa se citeasca a,b doua numere intregi de la tastatura. Sa se calculeze suma lor si sa se afiseze rezultatul la consola.
+
+2.Sa se compare doua numere si sa se afiseze cel mai mare.
+
+3.Sa se citeasca a,b doua numere intregi de la tastatura si a se rezolve ecuatia ax+b=0. Sa se afiseze rezultatul x la consola.
+
+4.Sa se calculeze media aritmetica a doua numere intregi si sa se afiseze rezultatul.
+
+5.Sa se compare 3 numere si sa se afiseze cel mai mic.
+
+6.Sa se citeasca varsta numar intreg de la tastatura si  sa se afiseze in functie de varsta mesajul "bebelus" (0-3 ani), "prescolar" (3-6 ani), "elev" (6-18 ani), "adult" (peste 18 ani).
+
+7.Sa se citeasca un numar intreg de la tastatura si sa se afle daca este par sau impar si sa se afiseza "PAR" sau "IMPAR".
+
+8.Sa se citeasca doua numere de la tastura si sa se calculeze suma lor daca sunt amandoua >0, produsul lor daca sunt amandoua <0 si diferenta lor daca sunt unu >0 si celalalt <0.
+
+9.Sa se citeasca 3 numere intregi de la tastura si sa se afle daca ele pot fi laturile unui triunghi si sa se afiseze "DA" sau "NU".
+
+10.Sa se citeasca n numar intreg de la tastatura si sa se calculeze suma s=1+2+3+...+n. Sa se afiseze rezultatul s.

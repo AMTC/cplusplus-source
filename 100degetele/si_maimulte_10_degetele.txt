@@ -1,0 +1,7 @@
+21.Sa se citeasca o matrice de numere intregi de la tastatura si sa se ordoneze folosind metoda selectionsort. Sa se afiseze rezultatul.
+
+22.Sa se citeasca o matrice de numere intregi de la tastatura si sa se ordoneze folosind metoda insertionsort. Sa se afiseze rezultatul.
+
+23. Sa se genereze si afiseze primele 100 de numere prime.
+
+24.Sa se citeasca n numar intreg de la tastatura. Sa se afiseze o matrice cu numerele aranjate in spirala.

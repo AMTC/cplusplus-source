@@ -1,0 +1,19 @@
+11.Sa se citeasca intreg n de la tastatura. Sa se calculeze suma = 1 + 3/1*2 + 5/(1*2*3) +...+ (2n-1)/1*2*3*...*n. Sa se afiseze suma.
+
+12.Sa se citeasca un numar intreg de la tastatura. Sa se afle daca este numar prim si sa se afiseze DA sau NU.
+
+13.Sa se citeasca un numar n intreg de la tastatura. Sa se contorizeze cate cifre sunt in numarul n si sa se afiseze numarul lor.
+
+14.Sa se citeasca un numar intreg de la tastatura. Sa se calculeze suma cifrelor numarului intreg si sa se afiseze rezultatul.
+
+15.Sa se citeasca un numar intreg de la tastatura. Sa se afle cate numere prime sunt in cifrele numarului intreg si sa se afiseze rezultatul.
+
+16.Sa se citeasca un numar intreg de la tastatura. Sa se afle care este cea mai mare cifra din numarul intreg si sa se afiseze.
+
+17.Sa se citeasca un numar intreg de la tastatura. Sa se afle daca numarul intreg este palindrom si sa se afiseze DA sau NU.
+
+18.Sa se citeasca un numar intreg de la tastatura. Sa se afle daca numarul intreg este numar perfect si sa se afiseze PERFECT sau IMPERFECT.
+ 
+19.Sa se citeasca un numar intreg de la tastatura. Sa se afle daca numarul intreg este numar armstrong si sa se afiseze ARMSTRONG sau NU.
+
+20.Sa se citeasca o matrice de numere intregi de la tastatura si sa se ordoneze folosind metoda bubblesort. Sa se afiseze rezultatul.
